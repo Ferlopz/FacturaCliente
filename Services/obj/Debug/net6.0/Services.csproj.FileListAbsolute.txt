@@ -1,0 +1,15 @@
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Optativo V\api.FacturaCliente\Services\bin\Debug\net6.0\Services.deps.json
+C:\Optativo V\api.FacturaCliente\Services\bin\Debug\net6.0\Services.dll
+C:\Optativo V\api.FacturaCliente\Services\bin\Debug\net6.0\Services.pdb
+C:\Optativo V\api.FacturaCliente\Services\bin\Debug\net6.0\Repository.dll
+C:\Optativo V\api.FacturaCliente\Services\bin\Debug\net6.0\Repository.pdb
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.dll
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\Services.pdb
+C:\Optativo V\api.FacturaCliente\Services\obj\Debug\net6.0\ref\Services.dll
