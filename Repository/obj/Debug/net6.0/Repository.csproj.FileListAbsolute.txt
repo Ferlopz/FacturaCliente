@@ -1,0 +1,12 @@
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Optativo V\api.FacturaCliente\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Optativo V\api.FacturaCliente\Repository\bin\Debug\net6.0\Repository.dll
+C:\Optativo V\api.FacturaCliente\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\Repository.dll
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Optativo V\api.FacturaCliente\Repository\obj\Debug\net6.0\ref\Repository.dll
