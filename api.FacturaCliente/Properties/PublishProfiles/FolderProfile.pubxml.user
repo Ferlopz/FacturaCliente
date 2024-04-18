@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Optativo V\api.FacturaCliente\api.FacturaCliente\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-04-17T03:43:45.8807169Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
